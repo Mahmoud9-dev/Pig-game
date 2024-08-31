@@ -1,9 +1,9 @@
 
 # 🍉🍍 Fruit Game: A Delicious Twist on the Classic Pig Game
 
-Welcome to the **Fruit Game** project! This is a playful and exciting variation of the classic Pig Game, originally inspired by Jonas Schmedtmann's JavaScript tutorial. In this version, instead of rolling dice, players roll fruits to compete for the highest score!
+Welcome to the **Fruit Game** project! This is a playful and exciting variation of the classic Pig Game, originally inspired by Jonas Schmedtmann's JavaScript tutorial. In this version, players roll fruits instead of dice to compete for the highest score!
 
-🌐[Demo]([url](https://pig-game-mnd.netlify.app/))
+🌐[Demo]([https://pig-game-mnd.netlify.app/])
 
 ![image](https://github.com/user-attachments/assets/815fc708-5d10-4be5-bf01-7ef817799e65)
 
